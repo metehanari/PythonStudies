@@ -9,7 +9,7 @@ def count_factors(given_number):
         
         if given_number % factor == 0:
                count += 1
-        
+                   
         factor += 1
     
     return count
