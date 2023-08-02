@@ -2,6 +2,7 @@
 name = "Eric Clapton"
 
 #print(name[::2])
+#[::2] is used to print every second character in a string.
 
 #print(name[0:5])
 
